@@ -1,0 +1,12 @@
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.CrossCutting.deps.json
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.CrossCutting.dll
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.CrossCutting.pdb
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.Domain.dll
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\bin\Release\netcoreapp3.1\Projeto.Domain.pdb
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.csprojAssemblyReference.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.AssemblyInfoInputs.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.AssemblyInfo.cs
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.csproj.CoreCompileInputs.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.csproj.CopyComplete
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.dll
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.CrossCutting\obj\Release\netcoreapp3.1\Projeto.CrossCutting.pdb

@@ -1,0 +1,9 @@
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\bin\Release\netcoreapp3.1\Projeto.Domain.deps.json
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\bin\Release\netcoreapp3.1\Projeto.Domain.dll
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\bin\Release\netcoreapp3.1\Projeto.Domain.pdb
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.csprojAssemblyReference.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.AssemblyInfoInputs.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.AssemblyInfo.cs
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.dll
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Domain\obj\Release\netcoreapp3.1\Projeto.Domain.pdb

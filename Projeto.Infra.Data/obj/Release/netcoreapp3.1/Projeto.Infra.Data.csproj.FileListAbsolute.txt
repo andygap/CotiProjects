@@ -1,0 +1,15 @@
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\bin\Release\netcoreapp3.1\Projeto.Infra.Data.deps.json
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\bin\Release\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.json
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\bin\Release\netcoreapp3.1\Projeto.Infra.Data.runtimeconfig.dev.json
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\bin\Release\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\bin\Release\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\bin\Release\netcoreapp3.1\Projeto.Domain.dll
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\bin\Release\netcoreapp3.1\Projeto.Domain.pdb
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\obj\Release\netcoreapp3.1\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\obj\Release\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfoInputs.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\obj\Release\netcoreapp3.1\Projeto.Infra.Data.AssemblyInfo.cs
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\obj\Release\netcoreapp3.1\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\obj\Release\netcoreapp3.1\Projeto.Infra.Data.csproj.CopyComplete
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\obj\Release\netcoreapp3.1\Projeto.Infra.Data.dll
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\obj\Release\netcoreapp3.1\Projeto.Infra.Data.pdb
+C:\DEV\Projetos Coti\ProjetoDDD\Projeto.Infra.Data\obj\Release\netcoreapp3.1\Projeto.Infra.Data.genruntimeconfig.cache
